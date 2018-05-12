@@ -1,4 +1,5 @@
 _repo: Flying-the-Atlantic-in-Sixteen-Hours-With-a-Discussion-of-Aircraft-in-Commerce-and-Transporta__47129
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Bott, Alan
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '35066'
     url: http://www.gutenberg.org/2009/agents/35066
+covers:
+- cover_type: archival
+  image_path: 47129-h/images/cover_th.jpg
 creator:
   author:
     agent_name: Brown, Arthur Whitten
     gutenberg_agent_id: '44147'
     url: http://www.gutenberg.org/2009/agents/44147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47129#Flying-the-Atlantic-in-Sixteen-Hours-With-a-Discussion-of-Aircraft-in-Commerce-and-Transporta_
 gutenberg_issued: '2014-10-15'
 gutenberg_type: Text
 identifiers:
