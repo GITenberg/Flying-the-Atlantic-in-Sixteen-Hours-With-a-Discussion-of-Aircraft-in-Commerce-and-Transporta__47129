@@ -27,6 +27,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Flying the Atlantic in Sixteen Hours
 
   With a Discussion of Aircraft in Commerce and Transportation'
